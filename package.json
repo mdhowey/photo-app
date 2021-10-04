@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mdhowey/photo-app#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^6.0.9",
     "node": "^16.10.0"
   }
 }
